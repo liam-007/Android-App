@@ -1,6 +1,6 @@
 # Android-App
 
-ime Trace
+Time Trace
 
 Version: Giraffe (Android 12)
 
