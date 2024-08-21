@@ -40,7 +40,7 @@ Additional Artefacts:
 
 **Developer Contact Info:**
 • Developer: Liam Cole Abraham
-• Email: liamabraham138@gmail.com
+• Email: liamcole0705@gmail.com
 
 **FAQ:**
 Q: What should I do if the app crashes during runtime?
