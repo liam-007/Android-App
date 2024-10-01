@@ -1,6 +1,4 @@
-# Android-App
-
-**Time Trace**
+# Time Trace App
 
 **Version: Giraffe (Android 12)**
 
